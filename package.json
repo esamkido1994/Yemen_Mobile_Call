@@ -1,12 +1,12 @@
 {
-  "name": "yemen-mobile-free-credit",
+  "name": "free-credit-experiment",
   "version": "1.0.0",
-  "description": "صفحة رصيد مجاني يمن موبايل - مشروع تجربة مهام",
+  "description": "تجربة أكواد رصيد مجاني وفورمات آمنة",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "By YourName",
+  "author": "Your Name",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2"
